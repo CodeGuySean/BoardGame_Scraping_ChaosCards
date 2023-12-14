@@ -105,7 +105,7 @@ def find_wish_game(wish_list, game):
         ## The first part is to check if the wish game name is in the retail game name on word basis
         ## The second part is in case the retail game name is with a colon
         if f" {wish_list_game.lower()} " in f" {game.lower()} " or f" {wish_list_game.lower()}:" in f" {game.lower()} ":
-            if 'insert' not in game.lower():
+            if 'insert' not in game.lower() and 'roleplaying' not in game.lower():
                 game_was_found = 1
     return game_was_found
 

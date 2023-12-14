@@ -10,7 +10,6 @@ HUMAN PUNISHMENT SOCIAL DEDUCTION
 HUMAN PUNISHMENT PROJECT HELL GATE
 Nemesis
 Battlestar Galactica
-Love Letter
 TRIAL BY TROLLEY
 BRASS BIRMINGHAM
 Mage Knight
@@ -27,6 +26,7 @@ Keep The Heroes Out
 Lords of Waterdeep
 Lost Ruins Of Arnak
 Star War Imperial Assault
-Blood on  the clocktower
+Blood on the clocktower
 ANCIENT FOREST
 WILDSPIRE WASTET
+Feed the Kraken
